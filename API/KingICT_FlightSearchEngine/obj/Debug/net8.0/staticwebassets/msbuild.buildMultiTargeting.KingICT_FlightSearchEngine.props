@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KingICT_FlightSearchEngine.props" />
+</Project>

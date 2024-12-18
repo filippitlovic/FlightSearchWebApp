@@ -1,0 +1,6 @@
+@KingICT_FlightSearchEngine_HostAddress = http://localhost:5055
+
+GET {{KingICT_FlightSearchEngine_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

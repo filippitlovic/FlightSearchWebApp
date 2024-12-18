@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "HomeController",
+    "Method": "SearchFlights",
+    "RelativePath": "api/Home/search-flights",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "searchRequest",
+        "Type": "KingICT_FlightSearchEngine.Models.FlightSearchRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KingICT_FlightSearchEngine.props" />
+</Project>
